@@ -23,7 +23,7 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
 
 
 ### 📊 Engineering Metrics
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeEmiliano80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeEmiliano80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEmiliano80&layout=compact&theme=tokyonight&hide_border=true)
 
