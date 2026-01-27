@@ -22,9 +22,9 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
 | **Cloud Infrastructure** | AWS (Amazon Web Services), GCP (Google Cloud Platform), Databricks, Docker. |
 
 
-### 📈 Engineering Metrics
-### 📈 Engineering Metrics (2026)
-![Jorge's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JorgeEmiliano80&theme=tokyonight&hide_border=true&area=true)
+### 📊 Engineering Metrics
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeEmiliano80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEmiliano80&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
