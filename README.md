@@ -23,16 +23,7 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
 
 ### 📊 Engineering Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/JorgeEmiliano80
-?template=classic
-&base.header=0
-&base.activity=1
-&base.repositories=1
-&plugin.languages=1
-&plugin.languages.limit=8
-&plugin.habits=1
-&plugin.activity=1
-&config.timezone=America/Los_Angeles)
+![GitHub Metrics](https://metrics.lecoq.io/JorgeEmiliano80?template=classic&base.header=0&base.activity=1&base.repositories=1&plugin.languages=1&plugin.languages.limit=8&plugin.habits=1&plugin.activity=1&config.timezone=America/Los_Angeles)
 
 ---
 
