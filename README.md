@@ -21,12 +21,18 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
 | **Engineering** | Python, SQL, Apache Spark, Apache Kafka, MLOps. |
 | **Cloud Infrastructure** | AWS (Amazon Web Services), GCP (Google Cloud Platform), Databricks, Docker. |
 
-
 ### 📊 Engineering Metrics
-![Jorge's stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JorgeEmiliano80&show_icons=true&theme=tokyonight&hide_border=true)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEmiliano80&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Metrics](https://metrics.lecoq.io/JorgeEmiliano80
+?template=classic
+&base.header=0
+&base.activity=1
+&base.repositories=1
+&plugin.languages=1
+&plugin.languages.limit=8
+&plugin.habits=1
+&plugin.activity=1
+&config.timezone=America/Los_Angeles)
 
 ---
 
