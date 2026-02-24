@@ -28,6 +28,8 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
     </p>
 ---
 
+
+
 ### 🌐 Beyond the Code
 * **Specialization**: Deeply invested in the evolution of Generative AI and its application in e-commerce.
 * **Education**: Data Science & Engineering @ Universidad de Buenos Aires.
