@@ -24,8 +24,12 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Jorge Engineering Metrics" width="70%>
-    </p>
+  <img src="github-metrics.svg" alt="Jorge Engineering Metrics" width="100%>
+</p>
+
+<p align="center">
+  <i>Focus: Time-series forecasting (Chronos), Data Validation (Pydantic), and Scalable AI Architectures.</i>
+</p>
 ---
 
 
