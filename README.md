@@ -24,10 +24,8 @@ I'm a Senior Data Scientist and IA Engineer focused on building end-to-end Machi
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Jorge Engineering Metrics" width="100%>
+  <img src="github-metrics.svg" alt="Jorge Engineering Metrics" width="70%>
     </p>
-
-
 ---
 
 ### 🌐 Beyond the Code
